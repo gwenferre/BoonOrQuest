@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"001_SALON_TOONZ","order":1,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":2,"expanded":true,"name":"002_VILLE","order":2,"parentId":0,"scrollX":1300.8,"scrollY":732},
-{"id":3,"expanded":false,"name":"009_MINION MASTER","order":15,"parentId":0,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
+{"id":3,"expanded":false,"name":"009_MINION MASTER","order":15,"parentId":0,"scrollX":650.4,"scrollY":366},
 {"id":4,"expanded":false,"name":"008_C_RED_DEAD_SALOON","order":11,"parentId":10,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":5,"expanded":false,"name":"004_FF_IX","order":12,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":6,"expanded":true,"name":"007_A_PHASMOPHOBIA_RDC","order":6,"parentId":8,"scrollX":801,"scrollY":640.5},
