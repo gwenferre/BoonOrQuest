@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"Toonz","characterIndex":0,"characterName":"Toonz_walk","classId":5,"equips":[5,1,2,3,0],"faceIndex":4,"faceName":"002_toonz","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tôonz","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"stoods","characterIndex":0,"characterName":"stoods_1","classId":6,"equips":[7,0,0,0,0],"faceIndex":1,"faceName":"001_stoods","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stoods","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"stoods","characterIndex":0,"characterName":"stoods","classId":6,"equips":[7,0,0,0,0],"faceIndex":1,"faceName":"001_stoods","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stoods","nickname":"","note":"","profile":""}
 ]
