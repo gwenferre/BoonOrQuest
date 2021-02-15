@@ -30,7 +30,7 @@ null,
 {"id":28,"expanded":true,"name":"004_FF_IX_Zone_5","order":28,"parentId":5,"scrollX":819,"scrollY":461},
 {"id":29,"expanded":true,"name":"004_FF_IX_Zone_6","order":30,"parentId":5,"scrollX":811,"scrollY":570},
 {"id":30,"expanded":false,"name":"004_FF_IX_Salle_9","order":31,"parentId":29,"scrollX":811,"scrollY":774},
-{"id":31,"expanded":false,"name":"004_FF_IX_Salle_10","order":32,"parentId":29,"scrollX":811,"scrollY":679},
+{"id":31,"expanded":false,"name":"004_FF_IX_Salle_10","order":32,"parentId":29,"scrollX":811,"scrollY":479},
 {"id":32,"expanded":false,"name":"004_FF_IX_Salle_8","order":29,"parentId":28,"scrollX":1005.3333333333334,"scrollY":678.2222222222222},
 {"id":33,"expanded":false,"name":"010_AMONG_US","order":34,"parentId":0,"scrollX":1367.111111111111,"scrollY":1276.4444444444443},
 {"id":34,"expanded":false,"name":"map nul de tp","order":33,"parentId":5,"scrollX":1400.5714285714284,"scrollY":780.8571428571428}
