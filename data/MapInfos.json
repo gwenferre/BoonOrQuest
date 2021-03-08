@@ -9,10 +9,10 @@ null,
 {"id":7,"expanded":true,"name":"007_B_PHASMOPHOBIA_FLOOR_1","order":9,"parentId":0,"scrollX":589.8181818181819,"scrollY":554.9090909090909},
 {"id":8,"expanded":true,"name":"007_PHASMOPHOBIA_EXTERIOR","order":7,"parentId":0,"scrollX":811,"scrollY":507},
 {"id":9,"expanded":false,"name":"003_ARCADES","order":3,"parentId":2,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
-{"id":10,"expanded":true,"name":"Boat_Ext","order":11,"parentId":11,"scrollX":996,"scrollY":604},
-{"id":11,"expanded":true,"name":"010_Sot_coast","order":10,"parentId":0,"scrollX":996,"scrollY":1564},
+{"id":10,"expanded":true,"name":"Boat_Ext","order":11,"parentId":11,"scrollX":1080.8,"scrollY":604},
+{"id":11,"expanded":true,"name":"010_Sot_coast","order":10,"parentId":0,"scrollX":1080.8,"scrollY":1564},
 null,
-{"id":13,"expanded":false,"name":"Boat_Int01","order":12,"parentId":11,"scrollX":655.2,"scrollY":356},
+{"id":13,"expanded":false,"name":"Boat_Int01","order":12,"parentId":11,"scrollX":1264.8,"scrollY":356},
 {"id":14,"expanded":false,"name":"Boat_Int02","order":13,"parentId":11,"scrollX":655.2,"scrollY":362.4},
 {"id":15,"expanded":false,"name":"Boat_Captain","order":14,"parentId":11,"scrollX":648.8,"scrollY":453.6}
 ]
