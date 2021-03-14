@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Toonz","characterIndex":0,"characterName":"Toonz_walk","classId":5,"equips":[5,1,2,3,0],"faceIndex":4,"faceName":"002_toonz","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tôonz","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Toonz","characterIndex":0,"characterName":"Toonz_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"002_toonz","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tôonz","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"stoods","characterIndex":0,"characterName":"stoods","classId":6,"equips":[7,0,0,0,0],"faceIndex":1,"faceName":"001_stoods","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stoods","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"abel","characterIndex":0,"characterName":"abel","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"025_abel","traits":[],"initialLevel":5,"maxLevel":99,"name":"Abelarion","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"ralas","characterIndex":0,"characterName":"ralas","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"027_ralas","traits":[],"initialLevel":5,"maxLevel":99,"name":"Ralàs","nickname":"","note":"","profile":""},
